@@ -5,4 +5,4 @@ por dia e R$0,15 por Km rodado."""
 km = float(input("Digite a quantidade de quilômetros percorridos: "))
 dias = int(input("Digite a quantidade de dias o carro foi alugado: "))
 custo = (60 * dias) + (km * 0.15)
-print(f"O valor do aluguel é R${custo:.2f}.")
+print(f"O valor do aluguel é R${custo:.2f}!")
