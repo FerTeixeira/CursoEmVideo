@@ -7,5 +7,5 @@ decametro = metros / 10
 decimetro = metros * 10
 centimetro = metros * 100
 milimetro = metros * 1000
-print(f"A medida de {metros}m corresponde a {centimetro:.0f}cm e {milimetro:.0f}mm")
+print(f"A medida de {metros}m corresponde a {centimetro:.0f}cm e {milimetro:.0f}mm.")
 
