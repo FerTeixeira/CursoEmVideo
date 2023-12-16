@@ -3,4 +3,4 @@
 n = int(input("Digite um número: "))
 ante = n - 1
 suce = n + 1
-print(f"O antecessor de {n} é {ante} e o sucessor é {suce}")
+print(f"O antecessor de {n} é {ante} e o sucessor é {suce}.")
