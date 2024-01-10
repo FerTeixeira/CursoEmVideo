@@ -8,4 +8,4 @@ while True:
     n = int(input("Digite um número entre 0 e 20: "))
     if 0 <= n <= 20:
         break
-print(f"Você digitou o número {cont[n]}")
+print(f"Você digitou o número {cont[n]}.")
